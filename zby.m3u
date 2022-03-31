@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:000, 东方卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8
+#EXTINF:001, 纪实人文
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
